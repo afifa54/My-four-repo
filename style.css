@@ -1,0 +1,24 @@
+h1{
+    color: aqua;
+}
+
+ul {
+    display: inline-flex;
+    margin: 20px;
+}
+
+li {
+    background: aqua;
+    padding: 12px;
+    margin: 10px;
+    list-style: none;
+    font-size: 20px;
+    font-family: monospace;
+}
+.header_logo {
+    width: 300px;
+    display: inline-block;
+}
+.main_header{
+    display: inline-flex;
+}
